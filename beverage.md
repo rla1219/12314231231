@@ -14,7 +14,7 @@
 > - markdown is easy
 > - Today weather is hoy **very very hottt!!!** Let's drink beverage [Cola][1] or **[Cider](http://www.lottechilsung.co.kr/product/brandDetail.html?srch_brand_no=1)** 
 
-[1]: (http://www.cocacola.co.kr/)
+[1]: http://www.cocacola.co.kr
 
 ![google](http://www.google.co.kr/images/srpr/logo11w.png)
 
