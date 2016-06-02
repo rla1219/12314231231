@@ -1,7 +1,7 @@
 **Welcome to MARKDOWN**
 1. introduce
- st id : 2013136027/\
- name  : kim chan ki/\
+ st id : 2013136027
+ name  : kim chan ki
 2. date
  2016 . 06 . 01
 3. where
