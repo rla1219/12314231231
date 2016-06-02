@@ -34,6 +34,6 @@ Cider   | $1
 Cola
 -------
 Cider
-*******
+-------
 Let's drink
 ______
