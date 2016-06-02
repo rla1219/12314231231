@@ -1,7 +1,9 @@
 **Welcome to MARKDOWN**
 1. introduce
  st id : 2013136027
+
  name  : kim chan ki
+ 
 2. date
  2016 . 06 . 01
 3. where
@@ -14,10 +16,12 @@
 
 [1]: (http://www.cocacola.co.kr/)
 
-![C](http://photo.naver.com/view/2009030121591820470)
+![google](http://www.google.co.kr/images/srpr/logo11w.png)
+
+![Cola](http://photo.naver.com/view/2009030121591820470)
 
 <i class="icon-cog"></i> 
-![C](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=076&aid=0002166328)
+![Cider](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=076&aid=0002166328)
 
 ```C++
 #include <stdio.h>
