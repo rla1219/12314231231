@@ -10,7 +10,9 @@
 *Computer Science Engineering* 
 > **Note:**
 > - markdown is easy
-> - Today weather is hoy **very very hottt!!!** Let's drink beverage **[Cola](http://www.cocacola.co.kr/)** or **[Cider](http://www.lottechilsung.co.kr/product/brandDetail.html?srch_brand_no=1)** 
+> - Today weather is hoy **very very hottt!!!** Let's drink beverage [Cola][1] or **[Cider](http://www.lottechilsung.co.kr/product/brandDetail.html?srch_brand_no=1)** 
+
+[1]: (http://www.cocacola.co.kr/)
 
 ![C](http://photo.naver.com/view/2009030121591820470)
 
@@ -36,4 +38,4 @@ Cola
 Cider
 -------
 Let's drink
-______
+**********
