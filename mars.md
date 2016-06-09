@@ -3,6 +3,17 @@
 2. majorcomputer
 3. id 2013136023
 4. age 23
+5. 1. introduce
+ st id : 2013136027
+
+ name  : kim chan ki
+ 
+2. date
+ 2016 . 06 . 01
+3. where
+**Koreatech**
+4. major
+*Computer Science Engineering* 
 > **ABCD**
 > - HI, my name is kim young jae
 > - i like basketball [sports][1] and **[koreatech](http://dasan.koreatech.ac.kr/index.ax?sso=ok)** 
