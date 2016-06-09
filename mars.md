@@ -1,5 +1,4 @@
-**Welcome to MARKDOWN**
-1. name 김영재
+**Welcome to MARKDOWN**1. name 김영재
 2. id 2013136023
 3. major computer
 > **ABCD**
