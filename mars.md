@@ -1,10 +1,7 @@
 **Welcome to MARKDOWN**
 1. name 김영재
-2. 
 2. id 2013136023
-3. 
 3. major computer
-4. 
 > **ABCD**
 > - HI, my name is kim young jae
 > - i like basketball [sports][1] and **[koreatech](http://dasan.koreatech.ac.kr/index.ax?sso=ok)** 
