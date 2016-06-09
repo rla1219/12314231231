@@ -1,13 +1,7 @@
 **Welcome to MARKDOWN**
-1. introduce
-st id : 2013136023 
-name : kim young jae 
-2. date
-2016. 06. 01
-3. where
-**computer soft**
-4. major
-*kim young jae* 
+1. name : *김영재*
+2. id   : 2013136023
+3. major: computer
 > **ABCD**
 > - HI, my name is kim young jae
 > - i like basketball [sports][1] and **[koreatech](http://dasan.koreatech.ac.kr/index.ax?sso=ok)** 
