@@ -1,8 +1,12 @@
 **Welcome to MARKDOWN**
-1.name : *김영재*
-2.major: computer
-2.id   : 2013136023
-3.age  : 23
+1. 
+name : *김영재*
+2. 
+major: computer
+3. 
+id   : 2013136023
+3. 
+age  : 23
 > **ABCD**
 > - HI, my name is kim young jae
 > - i like basketball [sports][1] and **[koreatech](http://dasan.koreatech.ac.kr/index.ax?sso=ok)** 
